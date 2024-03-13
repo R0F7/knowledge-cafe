@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/2W6FMFq/1000-F-225084966-hhswkk9-Ggk-AKcr2p1n69aai-I1j-ETb-ZO9-1.jpg",
+        "title": "Mastering Algorithms in Python",
+        "author_name": "John Doe",
+        "author_img": "https://i.ibb.co/syFPV2f/240-F-143715065-Udp-ASL2-Ptla-QUN2-Pngesom-KCSp-NA3-RIO.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 10,
+        "hashtags": [
+            "python",
+            "algorithms",
+            "coding"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/nfYN45v/1000-F-246658101-Xl-ZBUmx5p-Vd-QKo-FUgoh2qxl-Rry-Nv0-Jt-N.jpg",
+        "title": "Web Development Best Practices",
+        "author_name": "Jane Smith",
+        "author_img": "https://i.ibb.co/qyYQLjH/240-F-642290128-Apn-Nzy07e-Vi-X6d21t9-TZjut-I0f0ey-KWp.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": 8,
+        "hashtags": [
+            "webdev",
+            "bestpractices",
+            "frontend",
+            "backend"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/yd5Q435/1000-F-178965562-f-Us-TYd-EJU0z-Cf7dly-Tojr-XGr-VPAwl-Mo-H.jpg",
+        "title": "Introduction to Machine Learning",
+        "author_name": "Alex Johnson",
+        "author_img": "https://i.ibb.co/jHrmXF2/1000-F-225084966-hhswkk9-Ggk-AKcr2p1n69aai-I1j-ETb-ZO9-1.jpg",
+        "posted_date": "2024-03-08",
+        "reading_time": 15,
+        "hashtags": [
+            "machinelearning",
+            "datascience",
+            "ai"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/2W6FMFq/1000-F-225084966-hhswkk9-Ggk-AKcr2p1n69aai-I1j-ETb-ZO9-1.jpg",
+        "title": "Effective Git Workflow for Teams",
+        "author_name": "Emily Rogers",
+        "author_img": "https://i.ibb.co/257ssR2/1000-F-593914007-ZZRe-HDi-Gbq-Zz2-DKnkmen-KMa-ZJb-RSF7r-Y.jpg",
+        "posted_date": "2024-03-05",
+        "reading_time": 12,
+        "hashtags": [
+            "git",
+            "versioncontrol",
+            "teamwork",
+            "programming"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/n7m8dGB/1000-F-107962078-G7-Y5-A5-EGKra-Za-Lk-Obrm3e-Mvbq89-OJEn-P.jpg",
+        "title": "JavaScript Design Patterns",
+        "author_name": "David Brown",
+        "author_img": "https://i.ibb.co/BZzzgzw/240-F-556544240-Vrz-X3-Zw9y-D8-Nc-Uid-Zcr586-X60-HWTQQ5f.jpg",
+        "posted_date": "2024-03-02",
+        "reading_time": 10,
+        "hashtags": [
+            "javascript",
+            "designpatterns",
+            "coding"
+        ]
+    }
+]
+
+
+
+
+
